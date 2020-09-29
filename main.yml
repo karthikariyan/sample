@@ -1,0 +1,17 @@
+---
+canonicalweburl: https://35.231.202.149/
+serverid: 96498f75-dab0-4953-9b7f-b46f7fd2069d
+sendmail_from: dptest-gerrit@appranix.net
+smtpserver: email-smtp.us-west-2.amazonaws.com
+smtpserverport: 587
+smtpencryption: tls
+smtpuser: AKIAIUG3PQAX5PWUPPFA
+listenaddress: 2222
+client_id: 652839865709-uaraddi04p5r3hhhk6sqpqmloqolqqaf.apps.googleusercontent.com
+domain: appranix.com
+backup_url: ssh://dpradeep@appranix.com@source.developers.google.com:2022/p/anavsan-lab-x/r/${name}.git
+backup_projects: dptest
+auth_registeremailprivatekey: 2snJy4iMzlLFQDSVN0+CpV4ME1s+eVsrTLs=
+smtppass: AtYeNTwUEUgL3JBWiXC40+60JV8+WhTjmHHXx9/1YjUI
+client_secret: zepcbBGopGO9fh-gVunnkRhm
+auth_type: DEVELOPMENT_BECOME_ANY_ACCOUNT
